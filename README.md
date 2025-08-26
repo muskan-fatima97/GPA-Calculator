@@ -8,3 +8,6 @@ You just need to enter your course grades and credit hours, and the calculator w
 - Instant GPA calculation  
 - Clean and user-friendly interface  
 - Lightweight and easy to use 
+## 🎥 Demo Video
+[Watch the demo video](https://github.com/muskan-fatima97/GPA-Calculator/blob/main/demo.mp4)
+
